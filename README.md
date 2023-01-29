@@ -1,3 +1,8 @@
+## Ball-Battle
+
+A classic two player game.<br>
+Please enjoy it with your friends! 
+
 ## Screenshots
 | ![Screen 1](https://github.com/JasonFengGit/BallBattle/raw/master/screenshots/in_game.PNG) | ![Screen 2](https://github.com/JasonFengGit/BallBattle/raw/master/screenshots/in_game2.PNG) |
 |---------------------------------------------|---------------------------------------------|
