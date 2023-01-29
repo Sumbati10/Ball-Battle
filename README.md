@@ -1,12 +1,7 @@
-## Ball-Battle
-
-A classic two player game.<br>
-Please enjoy it with your friends! 
-
 ## Screenshots
-| ![Screen 1](https://github.com/Sumbati10/BallBattle/raw/master/screenshots/in_game.PNG) | ![Screen 2](https://github.com/Sumbati10/BallBattle/raw/master/screenshots/in_game2.PNG) |
+| ![Screen 1](https://github.com/JasonFengGit/BallBattle/raw/master/screenshots/in_game.PNG) | ![Screen 2](https://github.com/JasonFengGit/BallBattle/raw/master/screenshots/in_game2.PNG) |
 |---------------------------------------------|---------------------------------------------|
-| ![Screen 3](https://github.com/Sumbati10/BallBattle/raw/master/screenshots/finish.PNG) | ![Screen 4](https://github.com/Sumbati10/BallBattle/raw/master/screenshots/getting_point.PNG)|
+| ![Screen 3](https://github.com/JasonFengGit/BallBattle/raw/master/screenshots/finish.PNG) | ![Screen 4](https://github.com/JasonFengGit/BallBattle/raw/master/screenshots/getting_point.PNG)|
 ## Features
 
 - Score board to show each player's score
